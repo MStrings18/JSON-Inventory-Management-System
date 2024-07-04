@@ -1,0 +1,5 @@
+6283352764,Manan Verma,01-06-2024,Item A,10
+6283352764,Manan Verma,01-06-2024,Item B,20
+1234567890,Random Chickibum,01-06-2024,Item B,20
+1234567890,Random Chickibum,01-06-2024,Item D,50
+1234567890,Random Chickibum,01-06-2024,Item G,10
